@@ -1,0 +1,1 @@
+# DynamoDB-ile-Envanter-Takip-Tablosu-Terraform-
